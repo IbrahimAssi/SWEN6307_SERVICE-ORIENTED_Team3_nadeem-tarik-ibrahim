@@ -8,3 +8,6 @@
    
 3- Milestone3 (actual service code implementation) : 
    link: https://github.com/IbrahimAssi/SWEN6307_SERVICE-ORIENTED_nadeem-tarik-ibrahim/tree/Milestone3
+   
+4- Milestone4 (Clients)
+   link: (https://github.com/IbrahimAssi/SWEN6307_SERVICE-ORIENTED_nadeem-tarik-ibrahim/tree/Milestone4)
