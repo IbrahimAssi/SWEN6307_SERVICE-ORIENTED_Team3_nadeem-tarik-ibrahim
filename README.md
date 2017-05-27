@@ -1,5 +1,6 @@
 - We have developed 2 clients (web site and Mobile app)
 - We used 3 web services from 3 different teams (Team4,Team5,Team7), inaddition to our services (6 services)
+- We deployed our web servers (Apache, jboss) on cloud servers (http://paas.eapps.com/)
 
 - Login credentials for both clients: 
 
