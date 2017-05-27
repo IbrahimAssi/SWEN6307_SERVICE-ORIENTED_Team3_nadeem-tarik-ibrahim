@@ -14,13 +14,22 @@
 
 1- Web site (http://env-3937847.njs.jelastic.vps-host.net/portal/public/index.php/auth/login)
    Used web services:
+   
    1- from Team4 (university web service)
+   
    2- from Team7 (county information weather, currency,...etc)
+   
    3- Our web services (customer info, customer services, customer bills, pay bill, bank authintication)
    
+   
 2- Mobile App (please find the attached PaltelProject.apk)
+
    Used web services:
+   
    1- from Team5 (add payment)
       payment information (please find the attached image for "CredirCardInfo")
+      
    2- from Team7 (county information weather, currency,...etc)
+   
    3- Our web services (customer info, customer services, customer bills, pay bill, bank authintication)
+   
