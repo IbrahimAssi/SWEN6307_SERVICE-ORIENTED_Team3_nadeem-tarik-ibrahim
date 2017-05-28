@@ -27,10 +27,9 @@ B- Mobile App (please find the attached PaltelProject.apk)
 
    Used web services:
    
-     1- from Team5 (add payment)
-        payment information (please find the attached image for "CredirCardInfo")
-      
-     2- from Team7 (county information weather, currency,...etc)
+     1- from Team5 (add payment)payment information (please find the attached image for "CredirCardInfo")
+     
+     2- from Team7 (county information weather, currency,...etc)
    
      3- Our web services (customer info, customer services, customer bills, pay bill, bank authintication)
    
