@@ -11,3 +11,6 @@
    
 4- Milestone4 (Clients)
    link: (https://github.com/IbrahimAssi/SWEN6307_SERVICE-ORIENTED_nadeem-tarik-ibrahim/tree/Milestone4)
+   
+5- Milestone5 ( Project full documentation )
+   Link: (https://github.com/IbrahimAssi/SWEN6307_SERVICE-ORIENTED_nadeem-tarik-ibrahim/tree/Milestone5)
